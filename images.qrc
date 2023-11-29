@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ms2fish-hook.png</file>
+        <file>ms2fish-hook-mask.png</file>
+        <file>ms2fish-beginfishing-mask.png</file>
+        <file>ms2fish-beginfishing.png</file>
+        <file>autofish.png</file>
+        <file>ms2fish-beginfishing-kr.png</file>
+        <file>ms2fish-beginfishing-mask-kr.png</file>
+    </qresource>
+</RCC>
